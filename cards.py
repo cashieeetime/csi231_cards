@@ -3,7 +3,7 @@ import random
 
 class Card( object ):
     """ Model a playing card. """
-
+ 
     # Rank is an int (1-13), where aces are 1 and kings are 13.
     # Suit is an int (1-4), where clubs are 1 and spades are 4.
     # Value is an int (1-10), where aces are 1 and face cards are 10.
